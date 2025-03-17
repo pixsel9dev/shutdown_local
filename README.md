@@ -11,7 +11,7 @@ Shutdown Local, MaterialSkin2 kullanılarak geliştirilmiş, C# tabanlı bir uyg
 - **MaterialSkin2 UI**
 
 ## 📥 Kurulum
-sadece exeyi çalıştırıp ağı tara deyip istediğniz pcye tıkalyıp kapat diyin bu kadar
+sadece exeyi çalıştırıp ağı tara deyip istediğniz pcye tıklayıp kapat diyin bu kadar
 
 ## 🚀 Özellikler
 - Yerel ağda şifresiz bilgisayarları tespit eder.
