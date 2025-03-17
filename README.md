@@ -1,4 +1,5 @@
 # Shutdown Local - Yerel Ağdaki Şifresiz Bilgisayarları Kapatma Programı
+![Uploading ag.png…]()
 
 ## 📌 Açıklama
 Shutdown Local, MaterialSkin2 kullanılarak geliştirilmiş, C# tabanlı bir uygulamadır. Bu program, yerel ağda bulunan ve uzaktan kapatma komutlarına açık olan şifresiz bilgisayarları tespit ederek kapatma işlemi gerçekleştirir.
